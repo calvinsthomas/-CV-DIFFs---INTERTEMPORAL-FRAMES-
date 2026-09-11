@@ -4,7 +4,7 @@
 
 _**Dual Use Case of User Privacy and Corporate Protection**_
 
-Successfully Completed Removal of Offending Object for Display Showcase Glasses; of G* META X Ray Ban's glasses from my own frames for **Computer Vision -> Intertemporal Diffs**
+Successfully Completed Removal of Offending Object for Display Showcase Glasses (Try on virtually); of G* META X Ray Ban's glasses from my own frames for **Computer Vision -> Intertemporal Diffs**
 
 My IP methodology and process for Computer Vision object segmentation of G* glasses; my own hand-created method of **Computer Vision** alternative datasets ip_output [raw -> clean].
 
