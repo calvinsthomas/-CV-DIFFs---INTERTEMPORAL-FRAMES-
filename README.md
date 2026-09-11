@@ -2,7 +2,7 @@
 
 **CV Object Segmentation** Success G* META X Ray Ban's glasses Removed - Calvin Thomas's IP Methodology
 
-**Dual Use Case of User Privacy and Corporate Protection**
+_**Dual Use Case of User Privacy and Corporate Protection**_
 
 Successfully Completed Removal of Offending Object on Display; of G* META X Ray Ban's glasses from my own frames for **Computer Vision -> Intertemporal Diffs**
 
